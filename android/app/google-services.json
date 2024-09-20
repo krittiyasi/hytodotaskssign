@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "147605638312",
+    "project_id": "fluttertodolist-d0ce5",
+    "storage_bucket": "fluttertodolist-d0ce5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:147605638312:android:22be5b7d71b7736406069d",
+        "android_client_info": {
+          "package_name": "com.example.fluttertodolist"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhcco102O2BaX4ZXpezo2aa5-xZtq2W8Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:147605638312:android:b9a4f2f357e9e69106069d",
+        "android_client_info": {
+          "package_name": "com.example.task02"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhcco102O2BaX4ZXpezo2aa5-xZtq2W8Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
